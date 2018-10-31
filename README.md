@@ -5,5 +5,5 @@ THIS RECIPE IS STILL UNDER DEVELOPMENT
 
 ## Workaround to use this Recipe (Windows)
 - Create the dev folder %appdata%/Franz/recipes/dev
-- Copy the Files from this Repo to %appdata%/Franz/recipes/dev/franzmessenger-messages-android-recipe
+- Copy the Files from this Repo to %appdata%/Franz/recipes/dev/recipe-messagesandroid
 - Restart the Franz Messenger
