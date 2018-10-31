@@ -1,1 +1,2 @@
-# franzmessenger-messages-android-recipe
+# Android Messages for Franz
+This is a Franz recipe for messages.android.com
