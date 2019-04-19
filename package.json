@@ -1,7 +1,7 @@
 {
-    "id": "googlemessages",
-    "name": "Google Messages",
-    "version": "0.0.1",
+    "id": "googlemessagesweb",
+    "name": "Google Messages / Android",
+    "version": "0.0.2",
     "description": "Google Messages",
     "main": "index.js",
     "author": "aleymeradgymn",

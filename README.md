@@ -7,3 +7,7 @@ THIS RECIPE IS STILL UNDER DEVELOPMENT
 - Create the dev folder %appdata%/Franz/recipes/dev
 - Copy the Files from this Repo to %appdata%/Franz/recipes/dev/recipe-messagesandroid
 - Restart the Franz Messenger
+
+
+ ## Recent Changes
+ Changed Adress to new URL
